@@ -2,9 +2,9 @@
 ### NPM   : 140810180069
 
 
-#### Screenshots
-Enkripsi:
-(https://github.com/FarizAlfairuz/shiftcipher/blob/master/screenshot/enkripsi.png "Enkripsi")
+#### Screenshots <br>
+Enkripsi:<br>
+![alt text](https://github.com/FarizAlfairuz/shiftcipher/blob/master/screenshot/enkripsi.png "Enkripsi")
 
-Dekripsi:
-(https://github.com/FarizAlfairuz/shiftcipher/blob/master/screenshot/dekripsi.png "Dekripsi")
+Dekripsi:<br>
+![alt text](https://github.com/FarizAlfairuz/shiftcipher/blob/master/screenshot/dekripsi.png "Dekripsi")
